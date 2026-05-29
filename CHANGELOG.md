@@ -1,3 +1,8 @@
+## 0.1.1
+
+- نوێکردنەوەی README بە بەڵگەنامەی تەواو بە سێ زمان (کوردی، ئینگلیزی، عەرەبی)
+- Updated README with full documentation in 3 languages
+
 ## 0.1.0
 
 - زیادکردنی بەروار و کاتی کوردی (KurdishDateTime)
