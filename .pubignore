@@ -1,0 +1,17 @@
+# Slide images in root (duplicates of screenshots/)
+Slide*.JPG
+
+# Platform folders not needed for package
+android/
+ios/
+linux/
+macos/
+windows/
+
+# IDE files
+.idea/
+*.iml
+
+# Build artifacts
+.dart_tool/
+build/
